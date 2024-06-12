@@ -1,0 +1,23 @@
+
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.source{
+    font-style: italic;
+}
+
+.top-text{
+    font-size:x-small;
+}
+
+figcaption{
+    font-style: italic;
+    font-size: x-small;
+}

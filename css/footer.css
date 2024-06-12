@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    border: 6px solid black;
+   
+    
+}
+.social{
+    flex:1;
+    padding: 10px;
+    align-items: center;
+    padding-left: 150px;
+  
+   
+}
+.social img{
+    width:50px;
+    height:auto;
+
+}
